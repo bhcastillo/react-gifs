@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { useEffect } from 'react/cjs/react.development'
+
+import { useEffect, useState } from 'react'
 import { getGifs } from '../getGifs'
 
 export const useFetchGifs = (category) => {
