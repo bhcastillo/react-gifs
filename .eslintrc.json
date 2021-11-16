@@ -22,7 +22,6 @@
         "no-unused-vars": 1,
         "semi": "warn",
         "object-curly-spacing": "warn",
-        "arrow-spacing": "warn",
-        "key-spacing": "warn"
+        "arrow-spacing": "warn"
     }
 }
